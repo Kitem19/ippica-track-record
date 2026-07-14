@@ -20,7 +20,7 @@ importo reale.
 - Posta fissa **1u** per selezione; LAY con **liability massima 2u** (oltre
   quota 3.00 la posta si riduce per non superare il cap).
 - Cassa iniziale **20u** per sistema.
-- **Stop giornaliero −6,7u**: le selezioni successive della giornata non
+- **Stop giornaliero −10u**: le selezioni successive della giornata non
   contano nel conteggio ufficiale; si riparte l'indomani.
 - **Stop di fase −20u**: definitivo, il sistema si ferma.
 - P/L netto di commissione exchange 6,5%, quote snapshot al momento della
@@ -46,7 +46,7 @@ scala in unità). Non indichiamo quale.
 |---|---|---|---|---|---|
 | _dal 15/7_ | 20,0 | +0,0 | 0 | 0 | 🟢 |
 
-_Aggiornato: 14/07 17:17_
+_Aggiornato: 14/07 22:41_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
