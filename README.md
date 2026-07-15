@@ -44,22 +44,22 @@ scala in unità). Non indichiamo quale.
 
 | Sistema | Cassa (u) | P/L (u) | Selezioni | Escluse | Stato |
 |---|---|---|---|---|---|
-| Libeccio | 27,4 | +7,4 | 17 | 0 | 🟢 |
+| Libeccio | 33,0 | +13,0 | 18 | 0 | 🟢 |
+| Grecale | 26,0 | +6,0 | 19 | 0 | 🟢 |
 | Libeccio-B | 25,4 | +5,4 | 13 | 0 | 🟢 |
-| Scirocco-B | 25,1 | +5,1 | 10 | 0 | 🟢 |
-| Tramontana-B | 23,6 | +3,6 | 17 | 0 | 🟢 |
-| Ponente | 23,1 | +3,1 | 19 | 0 | 🟢 |
-| Zefiro | 22,3 | +2,3 | 14 | 0 | 🟢 |
-| Grecale | 20,4 | +0,4 | 18 | 0 | 🟢 |
-| Maestrale-B | 19,8 | -0,2 | 17 | 0 | 🟢 |
-| Tramontana | 14,5 | -5,5 | 16 | 0 | 🟢 |
-| Grecale-B | 14,5 | -5,5 | 13 | 0 | 🟢 |
+| Scirocco-B | 24,1 | +4,1 | 11 | 0 | 🟢 |
+| Ponente | 24,0 | +4,0 | 20 | 0 | 🟢 |
+| Tramontana-B | 22,6 | +2,6 | 18 | 0 | 🟢 |
+| Zefiro | 21,3 | +1,3 | 15 | 0 | 🟢 |
+| Maestrale-B | 20,7 | +0,7 | 18 | 0 | 🟢 |
+| Maestrale | 19,8 | -0,2 | 18 | 0 | 🟢 |
+| Scirocco | 17,7 | -2,3 | 18 | 0 | 🟢 |
+| Tramontana | 15,4 | -4,6 | 17 | 0 | 🟢 |
 | Zefiro-B | 14,3 | -5,7 | 11 | 0 | 🟢 |
-| Maestrale | 14,2 | -5,8 | 17 | 0 | 🟢 |
+| Grecale-B | 13,5 | -6,5 | 14 | 0 | 🟢 |
 | Ponente-B | 12,8 | -7,2 | 16 | 0 | 🟢 |
-| Scirocco | 12,0 | -8,0 | 17 | 0 | 🟢 |
 
-_Aggiornato: 15/07 19:01_
+_Aggiornato: 15/07 19:06_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
