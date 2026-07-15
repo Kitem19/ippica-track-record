@@ -59,7 +59,7 @@ scala in unità). Non indichiamo quale.
 | Scirocco | 13,0 | -7,0 | 16 | 0 | 🟢 |
 | Ponente-B | 12,8 | -7,2 | 16 | 0 | 🟢 |
 
-_Aggiornato: 15/07 18:41_
+_Aggiornato: 15/07 18:46_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
