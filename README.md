@@ -59,7 +59,7 @@ scala in unità). Non indichiamo quale.
 | Grecale-B | 11,5 | -8,5 | 16 | 0 | 🟢 |
 | Ponente-B | 11,4 | -8,6 | 18 | 0 | 🟢 |
 
-_Aggiornato: 15/07 19:51_
+_Aggiornato: 15/07 19:56_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
