@@ -44,9 +44,22 @@ scala in unità). Non indichiamo quale.
 
 | Sistema | Cassa (u) | P/L (u) | Selezioni | Escluse | Stato |
 |---|---|---|---|---|---|
-| _dal 15/7_ | 20,0 | +0,0 | 0 | 0 | 🟢 |
+| Libeccio | 29,5 | +9,5 | 11 | 0 | 🟢 |
+| Grecale | 25,7 | +5,7 | 13 | 0 | 🟢 |
+| Tramontana-B | 25,0 | +5,0 | 11 | 0 | 🟢 |
+| Scirocco-B | 24,2 | +4,2 | 9 | 0 | 🟢 |
+| Maestrale-B | 22,7 | +2,7 | 11 | 0 | 🟢 |
+| Libeccio-B | 21,6 | +1,6 | 8 | 0 | 🟢 |
+| Zefiro | 21,3 | +1,3 | 11 | 0 | 🟢 |
+| Ponente | 20,7 | +0,7 | 13 | 0 | 🟢 |
+| Maestrale | 18,7 | -1,3 | 12 | 0 | 🟢 |
+| Grecale-B | 18,5 | -1,5 | 9 | 0 | 🟢 |
+| Zefiro-B | 16,4 | -3,6 | 7 | 0 | 🟢 |
+| Ponente-B | 15,7 | -4,3 | 11 | 0 | 🟢 |
+| Tramontana | 14,7 | -5,3 | 11 | 0 | 🟢 |
+| Scirocco | 13,1 | -6,9 | 12 | 0 | 🟢 |
 
-_Aggiornato: 14/07 22:41_
+_Aggiornato: 15/07 17:48_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
