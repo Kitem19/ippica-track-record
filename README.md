@@ -40,26 +40,50 @@ scala in unità). Non indichiamo quale.
 ![Coppie: dati completi vs ridotti](charts/equity_pairs.png)
 
 ![Delta per coppia](charts/coppie_delta.png)
+
+### Come leggere i grafici
+
+- **Asse verticale:** cassa in **unità** (u). Ogni sistema parte da **20u**;
+  sopra 20u è in utile, sotto è in perdita.
+- **Asse orizzontale:** le giocate nel tempo (una tacca per selezione).
+- **Blu** = versione a **dati completi**; **arancione (-B)** = **dati ridotti**.
+  Nel singolo riquadro il confronto è l'esperimento: blu sopra = i dati extra
+  aiutano; arancione sopra = non aiutano (o danneggiano).
+- **Riferimenti:** 20u = pari; stop giornaliero a 10u; stop di fase a 0u (fermo).
+- **Attenzione:** poche giornate = **rumore**, non un trend. Le conclusioni si
+  traggono a fine fase (31/7).
+## Come vanno le coppie
+
+_Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
+
+- **Scirocco**: dati ridotti avanti di 19,3u — qui gli extra non aiutano
+- **Maestrale**: dati ridotti avanti di 14,0u — qui gli extra non aiutano
+- **Libeccio**: dati completi avanti di 8,8u
+- **Tramontana**: dati ridotti avanti di 40,0u — qui gli extra non aiutano
+- **Grecale**: dati completi avanti di 12,6u
+- **Zefiro**: dati completi avanti di 4,4u
+- **Ponente**: dati completi avanti di 6,7u
+
 ## Classifica (conteggio ufficiale)
 
 | Sistema | Cassa (u) | P/L (u) | Selezioni | Escluse | Stato |
 |---|---|---|---|---|---|
-| Tramontana-B | 38,5 | +18,5 | 51 | 0 | 🟢 |
-| Scirocco-B | 26,9 | +6,9 | 29 | 0 | 🟢 |
-| Maestrale-B | 25,5 | +5,5 | 54 | 0 | 🟢 |
-| Zefiro | 23,2 | +3,2 | 44 | 0 | 🟢 |
-| Libeccio | 22,2 | +2,2 | 53 | 0 | 🟢 |
-| Zefiro-B | 19,0 | -1,0 | 31 | 0 | 🟢 |
-| Grecale | 17,4 | -2,6 | 51 | 2 | ⏸ |
+| Tramontana-B | 39,7 | +19,7 | 52 | 0 | 🟢 |
+| Scirocco-B | 25,7 | +5,7 | 30 | 0 | 🟢 |
+| Maestrale-B | 24,2 | +4,2 | 55 | 0 | 🟢 |
+| Zefiro | 22,2 | +2,2 | 45 | 0 | 🟢 |
+| Libeccio | 20,9 | +0,9 | 54 | 0 | 🟢 |
+| Zefiro-B | 17,8 | -2,2 | 32 | 0 | 🟢 |
+| Grecale | 17,4 | -2,6 | 51 | 3 | ⏸ |
 | Ponente | 14,8 | -5,2 | 48 | 1 | ⏸ |
-| Libeccio-B | 12,1 | -7,9 | 40 | 1 | ⏸ |
-| Maestrale | 11,5 | -8,5 | 56 | 0 | 🟢 |
-| Ponente-B | 9,3 | -10,7 | 39 | 2 | 🟢 |
-| Scirocco | 6,4 | -13,6 | 46 | 5 | ⏸ |
-| Grecale-B | 6,1 | -13,9 | 45 | 2 | 🟢 |
-| Tramontana | 0,0 | -20,3 | 45 | 9 | 🛑 |
+| Libeccio-B | 12,1 | -7,9 | 40 | 2 | ⏸ |
+| Maestrale | 10,2 | -9,8 | 57 | 0 | 🟢 |
+| Ponente-B | 8,0 | -12,0 | 40 | 2 | 🟢 |
+| Scirocco | 6,4 | -13,6 | 46 | 6 | ⏸ |
+| Grecale-B | 4,9 | -15,1 | 46 | 2 | 🟢 |
+| Tramontana | 0,0 | -20,3 | 45 | 10 | 🛑 |
 
-_Aggiornato: 16/07 21:46_
+_Aggiornato: 16/07 21:51_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
