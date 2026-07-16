@@ -59,7 +59,7 @@ scala in unità). Non indichiamo quale.
 | Grecale-B | 11,2 | -8,8 | 26 | 2 | 🟢 |
 | Tramontana | 5,4 | -14,6 | 31 | 0 | 🟢 |
 
-_Aggiornato: 16/07 16:56_
+_Aggiornato: 16/07 17:01_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
