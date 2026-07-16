@@ -37,9 +37,9 @@ scala in unità). Non indichiamo quale.
 
 ## Grafici
 
-![Coppie: dati completi vs ridotti](charts/equity_pairs.png)
+![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png)
 
-![Delta per coppia](charts/coppie_delta.png)
+![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png)
 
 ### Come leggere i grafici
 
@@ -83,7 +83,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Grecale-B | 4,9 | -15,1 | 46 | 2 | 🟢 |
 | Tramontana | 0,0 | -20,3 | 45 | 10 | 🛑 |
 
-_Aggiornato: 16/07 23:31_
+_Aggiornato: 16/07 23:34_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
