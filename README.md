@@ -59,7 +59,7 @@ scala in unità). Non indichiamo quale.
 | Ponente-B | 9,4 | -10,6 | 20 | 2 | ⏸ |
 | Tramontana | 8,1 | -11,9 | 25 | 0 | 🟢 |
 
-_Aggiornato: 16/07 15:06_
+_Aggiornato: 16/07 15:11_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
