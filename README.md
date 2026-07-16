@@ -46,20 +46,20 @@ scala in unità). Non indichiamo quale.
 |---|---|---|---|---|---|
 | Tramontana-B | 36,4 | +16,4 | 31 | 0 | 🟢 |
 | Scirocco-B | 36,1 | +16,1 | 16 | 0 | 🟢 |
-| Libeccio | 28,9 | +8,9 | 33 | 0 | 🟢 |
-| Grecale | 27,1 | +7,1 | 32 | 0 | 🟢 |
-| Maestrale-B | 26,9 | +6,9 | 33 | 0 | 🟢 |
-| Zefiro | 25,4 | +5,4 | 25 | 0 | 🟢 |
+| Libeccio | 27,9 | +7,9 | 34 | 0 | 🟢 |
+| Maestrale-B | 27,1 | +7,1 | 34 | 0 | 🟢 |
+| Grecale | 26,1 | +6,1 | 33 | 0 | 🟢 |
 | Libeccio-B | 25,1 | +5,1 | 24 | 0 | 🟢 |
-| Ponente | 20,0 | -0,0 | 35 | 0 | 🟢 |
-| Maestrale | 16,2 | -3,8 | 32 | 0 | 🟢 |
-| Zefiro-B | 15,3 | -4,7 | 18 | 0 | 🟢 |
-| Scirocco | 14,1 | -5,9 | 29 | 0 | 🟢 |
-| Grecale-B | 12,2 | -7,8 | 25 | 2 | 🟢 |
+| Zefiro | 24,4 | +4,4 | 26 | 0 | 🟢 |
+| Zefiro-B | 23,7 | +3,7 | 19 | 0 | 🟢 |
+| Ponente | 19,0 | -1,0 | 36 | 0 | 🟢 |
+| Maestrale | 15,2 | -4,8 | 33 | 0 | 🟢 |
+| Scirocco | 12,1 | -7,9 | 30 | 0 | 🟢 |
 | Ponente-B | 11,3 | -8,7 | 24 | 2 | 🟢 |
-| Tramontana | 6,4 | -13,6 | 30 | 0 | 🟢 |
+| Grecale-B | 11,2 | -8,8 | 26 | 2 | 🟢 |
+| Tramontana | 5,4 | -14,6 | 31 | 0 | 🟢 |
 
-_Aggiornato: 16/07 16:41_
+_Aggiornato: 16/07 16:46_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
