@@ -59,7 +59,7 @@ scala in unità). Non indichiamo quale.
 | Scirocco | 7,4 | -12,6 | 45 | 0 | 🟢 |
 | Tramontana | 0,0 | -20,3 | 45 | 2 | 🛑 |
 
-_Aggiornato: 16/07 20:21_
+_Aggiornato: 16/07 20:26_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
