@@ -53,13 +53,13 @@ scala in unità). Non indichiamo quale.
 | Zefiro-B | 20,0 | -0,0 | 25 | 0 | 🟢 |
 | Ponente | 19,3 | -0,7 | 42 | 0 | 🟢 |
 | Libeccio-B | 19,1 | -0,9 | 30 | 0 | 🟢 |
-| Maestrale | 17,7 | -2,3 | 41 | 0 | 🟢 |
+| Maestrale | 16,2 | -3,8 | 42 | 0 | 🟢 |
 | Ponente-B | 14,5 | -5,5 | 29 | 2 | 🟢 |
 | Grecale-B | 11,9 | -8,1 | 34 | 2 | 🟢 |
 | Scirocco | 11,8 | -8,2 | 38 | 0 | 🟢 |
-| Tramontana | 3,5 | -16,5 | 39 | 0 | 🟢 |
+| Tramontana | 2,0 | -18,0 | 40 | 0 | 🟢 |
 
-_Aggiornato: 16/07 18:46_
+_Aggiornato: 16/07 18:51_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
