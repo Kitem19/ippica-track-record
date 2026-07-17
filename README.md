@@ -83,7 +83,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Ponente-B | 7,6 | -12,4 | 42 | 2 | 🟢 |
 | Tramontana | 0,0 | -20,3 | 45 | 17 | 🛑 |
 
-_Aggiornato: 17/07 16:26_
+_Aggiornato: 17/07 16:31_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
