@@ -83,7 +83,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Grecale-B | 4,9 | -15,1 | 46 | 2 | 🟢 |
 | Tramontana | 0,0 | -20,3 | 45 | 10 | 🛑 |
 
-_Aggiornato: 17/07 06:36_
+_Aggiornato: 17/07 06:41_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
