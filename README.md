@@ -83,7 +83,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Scirocco | 2,6 | -17,4 | 76 | 6 | 🟢 |
 | Tramontana | 0,0 | -20,3 | 45 | 43 | 🛑 |
 
-_Aggiornato: 17/07 20:31_
+_Aggiornato: 17/07 20:36_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
