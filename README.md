@@ -37,9 +37,9 @@ scala in unità). Non indichiamo quale.
 
 ## Grafici
 
-![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=586e219c)
+![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=d50b8bb9)
 
-![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=a7e3cecd)
+![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=6fc27e2d)
 
 ### Come leggere i grafici
 
@@ -56,7 +56,7 @@ scala in unità). Non indichiamo quale.
 
 _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 
-- **Scirocco**: dati ridotti avanti di 15,9u — qui gli extra non aiutano
+- **Scirocco**: dati ridotti avanti di 15,4u — qui gli extra non aiutano
 - **Maestrale**: dati ridotti avanti di 10,2u — qui gli extra non aiutano
 - **Libeccio**: dati completi avanti di 3,9u
 - **Tramontana**: dati ridotti avanti di 39,8u — qui gli extra non aiutano
@@ -79,11 +79,11 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Ponente | 14,1 | -5,9 | 51 | 1 | 🟢 |
 | Grecale-B | 14,1 | -5,9 | 51 | 2 | 🟢 |
 | Maestrale | 13,5 | -6,5 | 63 | 0 | 🟢 |
-| Scirocco | 9,4 | -10,6 | 51 | 6 | 🟢 |
+| Scirocco | 9,8 | -10,2 | 52 | 6 | 🟢 |
 | Ponente-B | 8,6 | -11,4 | 41 | 2 | 🟢 |
 | Tramontana | 0,0 | -20,3 | 45 | 15 | 🛑 |
 
-_Aggiornato: 17/07 15:56_
+_Aggiornato: 17/07 16:01_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
