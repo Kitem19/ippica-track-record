@@ -83,7 +83,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Tramontana | 0,0 | -20,3 | 45 | 66 | 🛑 |
 | Maestrale | 0,0 | -20,5 | 104 | 14 | 🛑 |
 
-_Aggiornato: 18/07 16:21_
+_Aggiornato: 18/07 16:26_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
