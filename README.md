@@ -37,9 +37,9 @@ scala in unità). Non indichiamo quale.
 
 ## Grafici
 
-![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=6b7ae59c)
+![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=7730525a)
 
-![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=3501b670)
+![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=ad1339db)
 
 ### Come leggere i grafici
 
@@ -58,7 +58,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 
 - **Scirocco**: dati ridotti avanti di 18,2u — qui gli extra non aiutano
 - **Maestrale**: dati ridotti avanti di 13,2u — qui gli extra non aiutano
-- **Libeccio**: in sostanziale pareggio — troppo presto per dire
+- **Libeccio**: dati ridotti avanti di 2,7u — qui gli extra non aiutano
 - **Tramontana**: dati ridotti avanti di 36,1u — qui gli extra non aiutano
 - **Grecale**: in sostanziale pareggio — troppo presto per dire
 - **Zefiro**: dati ridotti avanti di 5,5u — qui gli extra non aiutano
@@ -75,15 +75,15 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Libeccio-B | 12,3 | -7,7 | 72 | 2 | 🟢 |
 | Zefiro | 11,7 | -8,3 | 72 | 3 | ⏸ |
 | Grecale | 10,8 | -9,2 | 89 | 3 | 🟢 |
-| Libeccio | 10,6 | -9,4 | 73 | 25 | ⏸ |
 | Grecale-B | 10,0 | -10,0 | 83 | 2 | 🟢 |
+| Libeccio | 9,6 | -10,4 | 74 | 25 | 🟢 |
 | Ponente-B | 6,7 | -13,3 | 52 | 2 | 🟢 |
 | Ponente | 4,0 | -16,0 | 62 | 9 | ⏸ |
 | Maestrale | 0,5 | -19,5 | 103 | 0 | 🟢 |
 | Scirocco | 0,0 | -20,1 | 80 | 12 | 🛑 |
 | Tramontana | 0,0 | -20,3 | 45 | 52 | 🛑 |
 
-_Aggiornato: 18/07 14:11_
+_Aggiornato: 18/07 14:16_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
