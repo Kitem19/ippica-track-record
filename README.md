@@ -37,9 +37,9 @@ scala in unità). Non indichiamo quale.
 
 ## Grafici
 
-![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=f266b2a9)
+![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=b8aeeae0)
 
-![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=b7634e10)
+![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=c4796535)
 
 ### Come leggere i grafici
 
@@ -60,8 +60,8 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 - **Maestrale**: dati ridotti avanti di 8,9u — qui gli extra non aiutano
 - **Libeccio**: dati ridotti avanti di 5,8u — qui gli extra non aiutano
 - **Tramontana**: dati ridotti avanti di 34,9u — qui gli extra non aiutano
-- **Grecale**: dati ridotti avanti di 3,2u — qui gli extra non aiutano
-- **Zefiro**: dati ridotti avanti di 7,3u — qui gli extra non aiutano
+- **Grecale**: dati ridotti avanti di 4,2u — qui gli extra non aiutano
+- **Zefiro**: dati ridotti avanti di 9,3u — qui gli extra non aiutano
 - **Ponente**: dati ridotti avanti di 3,7u — qui gli extra non aiutano
 
 ## Classifica (conteggio ufficiale)
@@ -72,18 +72,18 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Scirocco-B | 22,9 | +2,9 | 60 | 0 | 🟢 |
 | Zefiro-B | 18,6 | -1,4 | 63 | 0 | 🟢 |
 | Grecale-B | 14,6 | -5,4 | 88 | 2 | 🟢 |
-| Zefiro | 11,4 | -8,6 | 78 | 3 | 🟢 |
-| Grecale | 11,4 | -8,6 | 96 | 3 | 🟢 |
 | Libeccio-B | 10,6 | -9,4 | 78 | 2 | 🟢 |
+| Grecale | 10,4 | -9,6 | 97 | 3 | 🟢 |
+| Zefiro | 9,4 | -10,6 | 79 | 3 | 🟢 |
 | Maestrale-B | 8,5 | -11,5 | 81 | 18 | 🟢 |
 | Ponente-B | 6,7 | -13,3 | 54 | 2 | 🟢 |
 | Libeccio | 4,8 | -15,2 | 81 | 25 | 🟢 |
 | Ponente | 3,0 | -17,0 | 65 | 9 | 🟢 |
-| Scirocco | 0,0 | -20,1 | 80 | 19 | 🛑 |
+| Scirocco | 0,0 | -20,1 | 80 | 20 | 🛑 |
 | Tramontana | 0,0 | -20,3 | 45 | 59 | 🛑 |
-| Maestrale | 0,0 | -20,5 | 104 | 6 | 🛑 |
+| Maestrale | 0,0 | -20,5 | 104 | 7 | 🛑 |
 
-_Aggiornato: 18/07 15:31_
+_Aggiornato: 18/07 15:36_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
