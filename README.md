@@ -83,7 +83,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Maestrale | 0,0 | -20,5 | 104 | 29 | 🛑 |
 | Ponente-B | 0,0 | -21,0 | 63 | 3 | 🛑 |
 
-_Aggiornato: 18/07 18:21_
+_Aggiornato: 18/07 18:26_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
