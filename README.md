@@ -83,7 +83,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Libeccio-B | 0,0 | -20,9 | 119 | 38 | 🛑 |
 | Ponente-B | 0,0 | -21,0 | 63 | 28 | 🛑 |
 
-_Aggiornato: 21/07 17:56_
+_Aggiornato: 21/07 18:01_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
