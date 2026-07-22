@@ -37,9 +37,9 @@ scala in unità). Non indichiamo quale.
 
 ## Grafici
 
-![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=44c5f925)
+![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=5534ff6b)
 
-![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=71e3879a)
+![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=e1103629)
 
 ### Come leggere i grafici
 
@@ -61,7 +61,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 - **Libeccio**: in sostanziale pareggio — troppo presto per dire
 - **Tramontana**: dati ridotti avanti di 13,9u — qui gli extra non aiutano
 - **Grecale**: dati completi avanti di 11,3u
-- **Zefiro**: dati completi avanti di 12,6u
+- **Zefiro**: dati completi avanti di 12,8u
 - **Ponente**: dati completi avanti di 18,7u
 
 ## Classifica (conteggio ufficiale)
@@ -69,21 +69,21 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Sistema | Cassa (u) | P/L (u) | Selezioni | Escluse | Stato |
 |---|---|---|---|---|---|
 | Ponente | 17,7 | -2,3 | 136 | 17 | 🟢 |
-| Zefiro | 15,1 | -4,9 | 173 | 5 | 🟢 |
+| Zefiro | 15,3 | -4,7 | 174 | 5 | 🟢 |
 | Tramontana-B | 13,6 | -6,4 | 220 | 0 | 🟢 |
 | Scirocco-B | 11,7 | -8,3 | 150 | 0 | 🟢 |
 | Grecale | 11,0 | -9,0 | 210 | 4 | 🟢 |
 | Zefiro-B | 2,5 | -17,5 | 141 | 0 | 🟢 |
-| Maestrale-B | 0,0 | -20,0 | 100 | 125 | 🛑 |
+| Maestrale-B | 0,0 | -20,0 | 100 | 126 | 🛑 |
 | Scirocco | 0,0 | -20,1 | 80 | 138 | 🛑 |
 | Grecale-B | 0,0 | -20,2 | 137 | 66 | 🛑 |
-| Tramontana | 0,0 | -20,3 | 45 | 184 | 🛑 |
-| Maestrale | 0,0 | -20,5 | 104 | 134 | 🛑 |
+| Tramontana | 0,0 | -20,3 | 45 | 185 | 🛑 |
+| Maestrale | 0,0 | -20,5 | 104 | 135 | 🛑 |
 | Libeccio | 0,0 | -20,6 | 181 | 42 | 🛑 |
 | Libeccio-B | 0,0 | -20,9 | 119 | 67 | 🛑 |
 | Ponente-B | 0,0 | -21,0 | 63 | 39 | 🛑 |
 
-_Aggiornato: 22/07 19:21_
+_Aggiornato: 22/07 19:26_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
