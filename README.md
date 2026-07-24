@@ -78,12 +78,12 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Grecale-B | 0,0 | -20,2 | 137 | 113 | 🛑 |
 | Tramontana | 0,0 | -20,3 | 45 | 238 | 🛑 |
 | Zefiro-B | 0,0 | -20,5 | 143 | 29 | 🛑 |
-| Maestrale | 0,0 | -20,5 | 104 | 186 | 🛑 |
+| Maestrale | 0,0 | -20,5 | 104 | 187 | 🛑 |
 | Libeccio | 0,0 | -20,6 | 181 | 96 | 🛑 |
 | Libeccio-B | 0,0 | -20,9 | 119 | 116 | 🛑 |
 | Ponente-B | 0,0 | -21,0 | 63 | 55 | 🛑 |
 
-_Aggiornato: 24/07 15:01_
+_Aggiornato: 24/07 15:06_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
