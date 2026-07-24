@@ -73,7 +73,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Tramontana-B | 20,1 | +0,1 | 277 | 0 | 🟢 |
 | Grecale | 19,5 | -0,5 | 255 | 4 | 🟢 |
 | Ponente | 15,1 | -4,9 | 169 | 28 | 🟢 |
-| Maestrale-B | 0,0 | -20,0 | 100 | 178 | 🛑 |
+| Maestrale-B | 0,0 | -20,0 | 100 | 179 | 🛑 |
 | Scirocco | 0,0 | -20,1 | 80 | 193 | 🛑 |
 | Grecale-B | 0,0 | -20,2 | 137 | 123 | 🛑 |
 | Tramontana | 0,0 | -20,3 | 45 | 251 | 🛑 |
@@ -83,7 +83,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Libeccio-B | 0,0 | -20,9 | 119 | 125 | 🛑 |
 | Ponente-B | 0,0 | -21,0 | 63 | 59 | 🛑 |
 
-_Aggiornato: 24/07 17:36_
+_Aggiornato: 24/07 17:41_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
