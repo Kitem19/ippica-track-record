@@ -37,9 +37,9 @@ scala in unità). Non indichiamo quale.
 
 ## Grafici
 
-![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=197bf510)
+![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=7a2865bf)
 
-![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=6e490fa1)
+![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=5213992c)
 
 ### Come leggere i grafici
 
@@ -56,34 +56,34 @@ scala in unità). Non indichiamo quale.
 
 _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 
-- **Scirocco**: dati ridotti avanti di 21,7u — qui gli extra non aiutano
+- **Scirocco**: dati ridotti avanti di 20,7u — qui gli extra non aiutano
 - **Maestrale**: in sostanziale pareggio — troppo presto per dire
 - **Libeccio**: in sostanziale pareggio — troppo presto per dire
 - **Tramontana**: in sostanziale pareggio — troppo presto per dire
 - **Grecale**: dati completi avanti di 28,4u
-- **Zefiro**: dati completi avanti di 8,5u
-- **Ponente**: dati completi avanti di 5,4u
+- **Zefiro**: dati completi avanti di 7,5u
+- **Ponente**: dati completi avanti di 4,4u
 
 ## Classifica (conteggio ufficiale)
 
 | Sistema | Cassa (u) | P/L (u) | Selezioni | Escluse | Stato |
 |---|---|---|---|---|---|
 | Grecale | 28,1 | +8,1 | 297 | 4 | 🟢 |
-| Scirocco-B | 21,7 | +1,7 | 220 | 0 | 🟢 |
-| Zefiro | 8,1 | -11,9 | 259 | 5 | 🟢 |
-| Ponente | 4,5 | -15,5 | 206 | 28 | 🟢 |
-| Tramontana-B | 1,2 | -18,8 | 323 | 6 | ⏸ |
-| Maestrale-B | 0,0 | -20,0 | 100 | 228 | 🛑 |
-| Scirocco | 0,0 | -20,1 | 80 | 236 | 🛑 |
-| Grecale-B | 0,0 | -20,2 | 137 | 167 | 🛑 |
-| Tramontana | 0,0 | -20,3 | 45 | 300 | 🛑 |
-| Zefiro-B | 0,0 | -20,5 | 143 | 66 | 🛑 |
-| Maestrale | 0,0 | -20,5 | 104 | 248 | 🛑 |
-| Libeccio | 0,0 | -20,6 | 181 | 157 | 🛑 |
-| Libeccio-B | 0,0 | -20,9 | 119 | 173 | 🛑 |
-| Ponente-B | 0,0 | -21,0 | 63 | 83 | 🛑 |
+| Scirocco-B | 20,7 | +0,7 | 221 | 0 | 🟢 |
+| Zefiro | 7,1 | -12,9 | 260 | 5 | 🟢 |
+| Ponente | 3,5 | -16,5 | 207 | 28 | 🟢 |
+| Tramontana-B | 1,2 | -18,8 | 323 | 7 | ⏸ |
+| Maestrale-B | 0,0 | -20,0 | 100 | 229 | 🛑 |
+| Scirocco | 0,0 | -20,1 | 80 | 237 | 🛑 |
+| Grecale-B | 0,0 | -20,2 | 137 | 168 | 🛑 |
+| Tramontana | 0,0 | -20,3 | 45 | 301 | 🛑 |
+| Zefiro-B | 0,0 | -20,5 | 143 | 67 | 🛑 |
+| Maestrale | 0,0 | -20,5 | 104 | 249 | 🛑 |
+| Libeccio | 0,0 | -20,6 | 181 | 158 | 🛑 |
+| Libeccio-B | 0,0 | -20,9 | 119 | 174 | 🛑 |
+| Ponente-B | 0,0 | -21,0 | 63 | 84 | 🛑 |
 
-_Aggiornato: 25/07 18:11_
+_Aggiornato: 25/07 18:16_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
