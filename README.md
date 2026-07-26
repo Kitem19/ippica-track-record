@@ -37,9 +37,9 @@ scala in unità). Non indichiamo quale.
 
 ## Grafici
 
-![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=b3aca9e9)
+![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=01d5324b)
 
-![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=15081922)
+![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=14fc536f)
 
 ### Come leggere i grafici
 
@@ -56,7 +56,7 @@ scala in unità). Non indichiamo quale.
 
 _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 
-- **Scirocco**: dati ridotti avanti di 20,4u — qui gli extra non aiutano
+- **Scirocco**: dati ridotti avanti di 19,4u — qui gli extra non aiutano
 - **Maestrale**: in sostanziale pareggio — troppo presto per dire
 - **Libeccio**: in sostanziale pareggio — troppo presto per dire
 - **Tramontana**: in sostanziale pareggio — troppo presto per dire
@@ -69,12 +69,12 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Sistema | Cassa (u) | P/L (u) | Selezioni | Escluse | Stato |
 |---|---|---|---|---|---|
 | Grecale | 26,1 | +6,1 | 301 | 4 | 🟢 |
-| Scirocco-B | 20,4 | +0,4 | 231 | 0 | 🟢 |
+| Scirocco-B | 19,4 | -0,6 | 232 | 0 | 🟢 |
 | Zefiro | 6,1 | -13,9 | 261 | 8 | ⏸ |
 | Tramontana-B | 1,2 | -18,8 | 323 | 12 | ⏸ |
 | Ponente | 1,0 | -19,0 | 210 | 28 | 🟢 |
 | Maestrale-B | 0,0 | -20,0 | 100 | 234 | 🛑 |
-| Scirocco | 0,0 | -20,1 | 80 | 254 | 🛑 |
+| Scirocco | 0,0 | -20,1 | 80 | 255 | 🛑 |
 | Grecale-B | 0,0 | -20,2 | 137 | 173 | 🛑 |
 | Tramontana | 0,0 | -20,3 | 45 | 305 | 🛑 |
 | Zefiro-B | 0,0 | -20,5 | 143 | 70 | 🛑 |
@@ -83,7 +83,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Libeccio-B | 0,0 | -20,9 | 119 | 178 | 🛑 |
 | Ponente-B | 0,0 | -21,0 | 63 | 84 | 🛑 |
 
-_Aggiornato: 26/07 16:36_
+_Aggiornato: 26/07 16:41_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
