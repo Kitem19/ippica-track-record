@@ -83,7 +83,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Ponente-B | 0,0 | -21,0 | 63 | 86 | 🛑 |
 | Ponente | 0,0 | -21,0 | 212 | 28 | 🛑 |
 
-_Aggiornato: 27/07 16:26_
+_Aggiornato: 27/07 16:31_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
