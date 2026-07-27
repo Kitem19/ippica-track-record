@@ -69,21 +69,21 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 | Sistema | Cassa (u) | P/L (u) | Selezioni | Escluse | Stato |
 |---|---|---|---|---|---|
 | Grecale | 22,3 | +2,3 | 328 | 4 | 🟢 |
-| Scirocco-B | 11,0 | -9,0 | 250 | 5 | ⏸ |
-| Maestrale-B | 0,0 | -20,0 | 100 | 261 | 🛑 |
-| Ponente | 0,0 | -20,0 | 213 | 42 | 🛑 |
-| Scirocco | 0,0 | -20,1 | 80 | 286 | 🛑 |
-| Grecale-B | 0,0 | -20,2 | 137 | 187 | 🛑 |
-| Tramontana | 0,0 | -20,3 | 45 | 327 | 🛑 |
-| Zefiro-B | 0,0 | -20,5 | 143 | 87 | 🛑 |
-| Maestrale | 0,0 | -20,5 | 104 | 281 | 🛑 |
+| Scirocco-B | 11,0 | -9,0 | 250 | 6 | ⏸ |
+| Maestrale-B | 0,0 | -20,0 | 100 | 262 | 🛑 |
+| Ponente | 0,0 | -20,0 | 213 | 43 | 🛑 |
+| Scirocco | 0,0 | -20,1 | 80 | 287 | 🛑 |
+| Grecale-B | 0,0 | -20,2 | 137 | 188 | 🛑 |
+| Tramontana | 0,0 | -20,3 | 45 | 328 | 🛑 |
+| Zefiro-B | 0,0 | -20,5 | 143 | 88 | 🛑 |
+| Maestrale | 0,0 | -20,5 | 104 | 282 | 🛑 |
 | Zefiro | 0,0 | -20,6 | 268 | 17 | 🛑 |
-| Libeccio | 0,0 | -20,6 | 181 | 185 | 🛑 |
+| Libeccio | 0,0 | -20,6 | 181 | 186 | 🛑 |
 | Tramontana-B | 0,0 | -20,8 | 324 | 35 | 🛑 |
-| Libeccio-B | 0,0 | -20,9 | 119 | 201 | 🛑 |
-| Ponente-B | 0,0 | -21,0 | 63 | 105 | 🛑 |
+| Libeccio-B | 0,0 | -20,9 | 119 | 202 | 🛑 |
+| Ponente-B | 0,0 | -21,0 | 63 | 106 | 🛑 |
 
-_Aggiornato: 27/07 21:41_
+_Aggiornato: 27/07 21:46_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
