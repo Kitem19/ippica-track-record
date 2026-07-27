@@ -37,9 +37,9 @@ scala in unità). Non indichiamo quale.
 
 ## Grafici
 
-![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=a338d2a0)
+![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=bca786f7)
 
-![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=1aa9d7fb)
+![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=b224c6b7)
 
 ### Come leggere i grafici
 
@@ -60,7 +60,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 - **Maestrale**: in sostanziale pareggio — troppo presto per dire
 - **Libeccio**: in sostanziale pareggio — troppo presto per dire
 - **Tramontana**: in sostanziale pareggio — troppo presto per dire
-- **Grecale**: dati completi avanti di 24,5u
+- **Grecale**: dati completi avanti di 23,5u
 - **Zefiro**: in sostanziale pareggio — troppo presto per dire
 - **Ponente**: in sostanziale pareggio — troppo presto per dire
 
@@ -68,22 +68,22 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 
 | Sistema | Cassa (u) | P/L (u) | Selezioni | Escluse | Stato |
 |---|---|---|---|---|---|
-| Grecale | 24,2 | +4,2 | 310 | 4 | 🟢 |
+| Grecale | 23,2 | +3,2 | 311 | 4 | 🟢 |
 | Scirocco-B | 15,0 | -5,0 | 243 | 0 | 🟢 |
 | Zefiro | 0,4 | -19,6 | 267 | 8 | 🟢 |
-| Maestrale-B | 0,0 | -20,0 | 100 | 243 | 🛑 |
-| Ponente | 0,0 | -20,0 | 213 | 31 | 🛑 |
+| Maestrale-B | 0,0 | -20,0 | 100 | 244 | 🛑 |
+| Ponente | 0,0 | -20,0 | 213 | 32 | 🛑 |
 | Scirocco | 0,0 | -20,1 | 80 | 270 | 🛑 |
-| Grecale-B | 0,0 | -20,2 | 137 | 177 | 🛑 |
+| Grecale-B | 0,0 | -20,2 | 137 | 178 | 🛑 |
 | Tramontana | 0,0 | -20,3 | 45 | 312 | 🛑 |
 | Zefiro-B | 0,0 | -20,5 | 143 | 76 | 🛑 |
 | Maestrale | 0,0 | -20,5 | 104 | 262 | 🛑 |
 | Libeccio | 0,0 | -20,6 | 181 | 171 | 🛑 |
-| Tramontana-B | 0,0 | -20,8 | 324 | 18 | 🛑 |
+| Tramontana-B | 0,0 | -20,8 | 324 | 19 | 🛑 |
 | Libeccio-B | 0,0 | -20,9 | 119 | 185 | 🛑 |
 | Ponente-B | 0,0 | -21,0 | 63 | 90 | 🛑 |
 
-_Aggiornato: 27/07 18:01_
+_Aggiornato: 27/07 18:06_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
