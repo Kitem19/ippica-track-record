@@ -37,9 +37,9 @@ scala in unità). Non indichiamo quale.
 
 ## Grafici
 
-![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=0bb80b28)
+![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=0741234b)
 
-![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=448588f9)
+![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=819a429b)
 
 ### Come leggere i grafici
 
@@ -60,30 +60,30 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 - **Maestrale**: in sostanziale pareggio — troppo presto per dire
 - **Libeccio**: in sostanziale pareggio — troppo presto per dire
 - **Tramontana**: in sostanziale pareggio — troppo presto per dire
-- **Grecale**: dati completi avanti di 26,3u
-- **Zefiro**: dati completi avanti di 6,5u
+- **Grecale**: dati completi avanti di 25,3u
+- **Zefiro**: dati completi avanti di 7,0u
 - **Ponente**: in sostanziale pareggio — troppo presto per dire
 
 ## Classifica (conteggio ufficiale)
 
 | Sistema | Cassa (u) | P/L (u) | Selezioni | Escluse | Stato |
 |---|---|---|---|---|---|
-| Grecale | 26,1 | +6,1 | 301 | 4 | 🟢 |
+| Grecale | 25,1 | +5,1 | 302 | 4 | 🟢 |
 | Scirocco-B | 21,6 | +1,6 | 238 | 0 | 🟢 |
-| Zefiro | 6,1 | -13,9 | 261 | 8 | ⏸ |
+| Zefiro | 6,6 | -13,4 | 262 | 8 | 🟢 |
 | Tramontana-B | 1,2 | -18,8 | 323 | 12 | ⏸ |
 | Ponente | 1,0 | -19,0 | 210 | 28 | 🟢 |
-| Maestrale-B | 0,0 | -20,0 | 100 | 234 | 🛑 |
+| Maestrale-B | 0,0 | -20,0 | 100 | 235 | 🛑 |
 | Scirocco | 0,0 | -20,1 | 80 | 263 | 🛑 |
 | Grecale-B | 0,0 | -20,2 | 137 | 173 | 🛑 |
-| Tramontana | 0,0 | -20,3 | 45 | 305 | 🛑 |
+| Tramontana | 0,0 | -20,3 | 45 | 306 | 🛑 |
 | Zefiro-B | 0,0 | -20,5 | 143 | 70 | 🛑 |
-| Maestrale | 0,0 | -20,5 | 104 | 254 | 🛑 |
-| Libeccio | 0,0 | -20,6 | 181 | 163 | 🛑 |
-| Libeccio-B | 0,0 | -20,9 | 119 | 178 | 🛑 |
+| Maestrale | 0,0 | -20,5 | 104 | 255 | 🛑 |
+| Libeccio | 0,0 | -20,6 | 181 | 164 | 🛑 |
+| Libeccio-B | 0,0 | -20,9 | 119 | 179 | 🛑 |
 | Ponente-B | 0,0 | -21,0 | 63 | 84 | 🛑 |
 
-_Aggiornato: 27/07 15:16_
+_Aggiornato: 27/07 15:21_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
