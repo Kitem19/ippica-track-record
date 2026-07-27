@@ -37,9 +37,9 @@ scala in unità). Non indichiamo quale.
 
 ## Grafici
 
-![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=220cde7e)
+![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=08f69bdc)
 
-![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=e2afcf23)
+![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=f9bc970d)
 
 ### Come leggere i grafici
 
@@ -60,7 +60,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 - **Maestrale**: in sostanziale pareggio — troppo presto per dire
 - **Libeccio**: in sostanziale pareggio — troppo presto per dire
 - **Tramontana**: in sostanziale pareggio — troppo presto per dire
-- **Grecale**: dati completi avanti di 20,0u
+- **Grecale**: dati completi avanti di 20,2u
 - **Zefiro**: in sostanziale pareggio — troppo presto per dire
 - **Ponente**: in sostanziale pareggio — troppo presto per dire
 
@@ -68,22 +68,22 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 
 | Sistema | Cassa (u) | P/L (u) | Selezioni | Escluse | Stato |
 |---|---|---|---|---|---|
-| Grecale | 19,8 | -0,2 | 323 | 4 | 🟢 |
-| Scirocco-B | 11,0 | -9,0 | 250 | 2 | ⏸ |
+| Grecale | 20,0 | -0,0 | 324 | 4 | 🟢 |
+| Scirocco-B | 11,0 | -9,0 | 250 | 3 | ⏸ |
 | Maestrale-B | 0,0 | -20,0 | 100 | 255 | 🛑 |
-| Ponente | 0,0 | -20,0 | 213 | 38 | 🛑 |
-| Scirocco | 0,0 | -20,1 | 80 | 280 | 🛑 |
+| Ponente | 0,0 | -20,0 | 213 | 39 | 🛑 |
+| Scirocco | 0,0 | -20,1 | 80 | 281 | 🛑 |
 | Grecale-B | 0,0 | -20,2 | 137 | 183 | 🛑 |
-| Tramontana | 0,0 | -20,3 | 45 | 320 | 🛑 |
-| Zefiro-B | 0,0 | -20,5 | 143 | 82 | 🛑 |
-| Maestrale | 0,0 | -20,5 | 104 | 273 | 🛑 |
+| Tramontana | 0,0 | -20,3 | 45 | 321 | 🛑 |
+| Zefiro-B | 0,0 | -20,5 | 143 | 83 | 🛑 |
+| Maestrale | 0,0 | -20,5 | 104 | 274 | 🛑 |
 | Zefiro | 0,0 | -20,6 | 268 | 16 | 🛑 |
 | Libeccio | 0,0 | -20,6 | 181 | 179 | 🛑 |
 | Tramontana-B | 0,0 | -20,8 | 324 | 29 | 🛑 |
-| Libeccio-B | 0,0 | -20,9 | 119 | 196 | 🛑 |
-| Ponente-B | 0,0 | -21,0 | 63 | 100 | 🛑 |
+| Libeccio-B | 0,0 | -20,9 | 119 | 197 | 🛑 |
+| Ponente-B | 0,0 | -21,0 | 63 | 101 | 🛑 |
 
-_Aggiornato: 27/07 20:21_
+_Aggiornato: 27/07 20:26_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
