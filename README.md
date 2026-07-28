@@ -37,9 +37,9 @@ scala in unità). Non indichiamo quale.
 
 ## Grafici
 
-![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=b08a50e7)
+![Coppie: dati completi vs ridotti](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/equity_pairs.png?v=0d0511c6)
 
-![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=cb95ec77)
+![Delta per coppia](https://raw.githubusercontent.com/Kitem19/ippica-track-record/main/charts/coppie_delta.png?v=6522e7e2)
 
 ### Come leggere i grafici
 
@@ -60,7 +60,7 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 - **Maestrale**: in sostanziale pareggio — troppo presto per dire
 - **Libeccio**: in sostanziale pareggio — troppo presto per dire
 - **Tramontana**: in sostanziale pareggio — troppo presto per dire
-- **Grecale**: dati completi avanti di 16,9u
+- **Grecale**: dati completi avanti di 15,9u
 - **Zefiro**: in sostanziale pareggio — troppo presto per dire
 - **Ponente**: in sostanziale pareggio — troppo presto per dire
 
@@ -68,22 +68,22 @@ _Poche giornate: numeri ancora rumorosi, si conclude a fine fase (31/7)._
 
 | Sistema | Cassa (u) | P/L (u) | Selezioni | Escluse | Stato |
 |---|---|---|---|---|---|
-| Grecale | 16,6 | -3,4 | 334 | 4 | 🟢 |
+| Grecale | 15,6 | -4,4 | 335 | 4 | 🟢 |
 | Scirocco-B | 8,5 | -11,5 | 254 | 6 | 🟢 |
-| Maestrale-B | 0,0 | -20,0 | 100 | 268 | 🛑 |
+| Maestrale-B | 0,0 | -20,0 | 100 | 269 | 🛑 |
 | Ponente | 0,0 | -20,0 | 213 | 48 | 🛑 |
 | Scirocco | 0,0 | -20,1 | 80 | 292 | 🛑 |
-| Grecale-B | 0,0 | -20,2 | 137 | 188 | 🛑 |
+| Grecale-B | 0,0 | -20,2 | 137 | 189 | 🛑 |
 | Tramontana | 0,0 | -20,3 | 45 | 333 | 🛑 |
 | Zefiro-B | 0,0 | -20,5 | 143 | 89 | 🛑 |
-| Maestrale | 0,0 | -20,5 | 104 | 289 | 🛑 |
+| Maestrale | 0,0 | -20,5 | 104 | 290 | 🛑 |
 | Zefiro | 0,0 | -20,6 | 268 | 23 | 🛑 |
 | Libeccio | 0,0 | -20,6 | 181 | 194 | 🛑 |
 | Tramontana-B | 0,0 | -20,8 | 324 | 41 | 🛑 |
 | Libeccio-B | 0,0 | -20,9 | 119 | 208 | 🛑 |
 | Ponente-B | 0,0 | -21,0 | 63 | 109 | 🛑 |
 
-_Aggiornato: 28/07 16:26_
+_Aggiornato: 28/07 16:31_
 ---
 *Nessuna delle informazioni qui pubblicate costituisce consiglio di gioco.
 Il gioco può causare dipendenza — 18+.*
